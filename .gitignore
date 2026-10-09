@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+.venv311/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PrimeVul dataset
+dataset/
+
+# Generated experimental outputs
+outputs/
+
+# Accidental/unused folder
+{dataset,src,outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
